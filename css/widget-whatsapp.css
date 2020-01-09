@@ -1,4 +1,5 @@
 /* WIDGET WHATSAPP */
+body{display:none;}
 div#kirman_alidris{position:fixed;top:0;left:0;right:0;bottom:0;z-index:-99;opacity:0;transition:.5s;background:rgba(0,0,0,0.5)}
 div#kirman_alidris.active{z-index:9999;opacity:1}
 div#whatsapp{position:fixed;top:50%;left:50%;max-width:480px;width:95%;background:#fff;transform:translate(-50%,-50%);z-index:-1;opacity:0;border-radius:2px;border:0;overflow:hidden;box-shadow:0 20px 50px rgba(0,0,0,.2);transition:.5s}
@@ -18,7 +19,7 @@ a.submit:hover {background:#444;}
 .mahir label{width:100%}
 .wa-body i{position:absolute;z-index:0;display:inline-block;vertical-align:top;width:40px;text-align:center;font-size:16px;height:auto;background:transparent;box-shadow:none;top:10px;color:rgba(0,0,0,.2)}
 .wa-input:focus{box-shadow:inset 0 -1px 0 0 #0cc243}
-a#wa-icon{font-size:30px;position:fixed;bottom:50%;right:50%;line-height:0;border-radius:30px;background:#fff;padding:0;height:60px;width:60px;line-height:60px;color:#2ecc71;box-shadow:0 5px 15px rgba(0,0,0,.08);z-index:99}
+a#wa-icon{font-size:30px;position:fixed;bottom:30px;right:30px;line-height:0;border-radius:30px;background:#fff;padding:0;height:60px;width:60px;line-height:60px;color:#2ecc71;box-shadow:0 5px 15px rgba(0,0,0,.08);z-index:99}
 a#wa-icon::before{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
 /* CSS TABLE */
  table {max-width: 100%;width: 100%;margin: 0;}
