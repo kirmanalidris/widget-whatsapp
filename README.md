@@ -20,6 +20,8 @@ Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di
                   |---- Js   - widget-whatsapl.js
                   |
                   |---- Html
+                  |
+                  |---- License
 </code></pre>
 
 
