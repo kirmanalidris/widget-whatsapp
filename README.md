@@ -21,3 +21,7 @@ Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di
                   |
                   |---- Html
 </code></pre>
+
+
+### License
+
