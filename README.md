@@ -25,5 +25,6 @@ Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di
 </code></pre>
 
 
-### License
-look at the license first at licens.md
+### Catatan
+Dilarang modifikasi tanpa cantumkan sumber dan author
+Boleh modifikasi asalkan tercantium sumber dan author
