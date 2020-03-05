@@ -9,9 +9,9 @@
 &lt;script src=&quot;https://cdn.statically.io/gh/kirmanalidris/widget-whatsapp/90e6ab54/js/widget-whatsapp.js&quot;&gt;&lt;/script&gt;
 </code></pre>
 ### Instalasi
-
 Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di atas penutup body
 Perlu diketahui bahwa anda harus memasang "font awesome cdn"
+
 <pre><code>
 
  Widget WhatsApp -|
