@@ -26,4 +26,4 @@ Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di
 
 
 ### License
-
+look at the license first at licens.md
