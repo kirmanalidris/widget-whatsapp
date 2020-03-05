@@ -11,7 +11,7 @@
 ### Instalasi
 
 Untuk pemasangan simpan stylesheet pada head dan javascript jQuery dan costum di atas penutup body
-
+Perlu diketahui bahwa anda harus memasang "font awesome cdn"
 <pre><code>
 
  Widget WhatsApp -|
