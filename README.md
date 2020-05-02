@@ -1,5 +1,4 @@
 <center>
-<p align='center'>
 
 # widget-whatsapp v1.0
 
@@ -37,5 +36,4 @@ Dilarang modifikasi tanpa cantumkan sumber dan author
 Boleh modifikasi asalkan tercantium sumber dan author
 
 
-</p>
 </center>
