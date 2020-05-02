@@ -3,6 +3,10 @@
 
 # widget-whatsapp v1.0
 
+Widget WhatsApp ini dibuat khusus untuk mempermudah interaksi khususnya untuk sebuah halaman web, widget ini adalah versi terdahulu dan ada kemungkinan akan kami update ke versi 1.2 yang memungkinkan memiliki tampilan yang lebih ke material design.
+
+Dan tentunya akan mendapatkan perubahan layout dan tambahkan seperti formulir user, email dan pesan yang disampaikan.
+
 ### Css style
 <pre><code>
 &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.statically.io/gh/kirmanalidris/widget-whatsapp/5803631a/css/widget-whatsapp.css&quot;/&gt;
