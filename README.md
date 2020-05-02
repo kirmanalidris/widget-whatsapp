@@ -1,3 +1,6 @@
+<center>
+<p align='center'>
+
 # widget-whatsapp v1.0
 
 ### Css style
@@ -28,3 +31,7 @@ Perlu diketahui bahwa anda harus memasang "font awesome cdn"
 ### Catatan
 Dilarang modifikasi tanpa cantumkan sumber dan author
 Boleh modifikasi asalkan tercantium sumber dan author
+
+
+</p>
+</center>
